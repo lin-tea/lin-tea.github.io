@@ -1,6 +1,7 @@
 ---
-name: LED detection Using YOLOv5
+name: LED Detection
 tools: [C#,OpencvSharp,YOLOv5,pytorch]
+image:
 description: In This project, we train our coustom YOLO to detect LED and transfer it to C#. 
 ---
 
