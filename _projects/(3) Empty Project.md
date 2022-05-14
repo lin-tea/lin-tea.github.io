@@ -1,7 +1,7 @@
 ---
-name: Empty Project
-tools: [Node JS, JavaScript, HTML, CSS]
+name: LSTM to Predict price
+tools: [Python,pyotrch]
 image:
-description: This project has no image or showcase page, but it is still a beautiful project inside out!
+description: Use LSTM model with Pytorch to predict the prices of Bitcorn.
 external_url: https://github.com/YoussefRaafatNasry
 ---
