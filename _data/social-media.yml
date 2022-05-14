@@ -1,9 +1,13 @@
 # Get Icons  from : https://fontawesome.com/icons
 # Get Colors from : https://brandcolors.net/
 
-behance:
-  url   : https://www.behance.net/
-  icon  : fab fa-behance
+# behance:
+#   url   : https://www.behance.net/
+#   icon  : fab fa-behance
+#   color : 1769ff
+QQ:
+  url   : https://im.qq.com/index
+  icon  : fab fa-qq
   color : 1769ff
 
 dribbble:
