@@ -1,20 +1,27 @@
 ---
-name: Project
-tools: [C#]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+name: LED detection Using YOLOv5
+tools: [C#,OpencvSharp,YOLOv5,pytorch]
+description: In This project, we train our coustom YOLO to detect LED and transfer it to C#. 
 ---
 
-# The Movies Project
+# LED Detection Project
+Things need to do:
+- Training coutom networks
+- Output networks as ONNX form
+- Inference ONNX with DNN module in Opencv
+- Draw Resuls
+- Using with Mutil-Thread
+ 
+<!-- ![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg) -->
 
-The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
+## 1. Training coutom networks
 
-![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
 
-## Search Movies
-
-![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
-
-<p class="text-center">
+<!-- <p class="text-center">
 {% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
-</p>
+</p> -->
+
+### Reference:
+ [1] [DarkNet](https://pjreddie.com/darknet/).
+ 
+ [2] [YOLOv5 by Ultralytics](https://github.com/ultralytics/yolov5).
