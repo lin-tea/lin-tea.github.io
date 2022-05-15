@@ -5,10 +5,10 @@
 #   url   : https://www.behance.net/
 #   icon  : fab fa-behance
 #   color : 1769ff
-QQ:
-  url   : https://im.qq.com/index
-  icon  : fab fa-qq
-  color : 1769ff
+# QQ:
+#   url   : https://im.qq.com/index
+#   icon  : fab fa-qq
+#   color : 1769ff
 
 dribbble:
   url   : https://dribbble.com/
