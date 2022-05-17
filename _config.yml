@@ -24,22 +24,22 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Tea
   image             : https://i.imgur.com/GeRTp2F.jpg
-  behance           : your_username
+# behance           : your_username
 # dribbble          : your_username
   email             : ganxlin@gmail.com
-  facebook          : your_username
+# facebook          : your_username
   github            : lin-tea
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
+# linkedin          : your_username
+# medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+# twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
