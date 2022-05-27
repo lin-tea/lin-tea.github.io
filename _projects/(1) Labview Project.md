@@ -1,7 +1,7 @@
 ---
 name: LabView Project
-tools: [LabView, ocean optic,DAQ,PMAC]
+tools: [LabView,PMAC,ocean optic,DAQ]
 image:
 description: 
-external_url: https://www.google.com
+external_url: https://github.com/lin-tea/PMAC_LabView  
 ---
